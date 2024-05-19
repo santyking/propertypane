@@ -7,7 +7,7 @@ import { BaseClientSideWebPart } from '@microsoft/sp-webpart-base';
 // import type { IReadonlyTheme } from '@microsoft/sp-component-base';
 // import { escape } from '@microsoft/sp-lodash-subset';
 
-// import styles from './Propertypane1WebPart.module.scss';
+import styles from './Propertypane1WebPart.module.scss';
 import * as strings from 'Propertypane1WebPartStrings';
 
 export interface IPropertypane1WebPartProps {
@@ -22,7 +22,7 @@ export default class Propertypane1WebPart extends BaseClientSideWebPart<IPropert
   public render(): void {
     this.domElement.innerHTML = 
     `
-    <h1>Property pane</h1>
+    <h1 class="${ styles.propertypane1}">Property pane</h1>
     `;
   }
 
