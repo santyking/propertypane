@@ -4,10 +4,10 @@ import {
   PropertyPaneTextField
 } from '@microsoft/sp-property-pane';
 import { BaseClientSideWebPart } from '@microsoft/sp-webpart-base';
-import type { IReadonlyTheme } from '@microsoft/sp-component-base';
+// import type { IReadonlyTheme } from '@microsoft/sp-component-base';
 // import { escape } from '@microsoft/sp-lodash-subset';
 
-import styles from './Propertypane1WebPart.module.scss';
+// import styles from './Propertypane1WebPart.module.scss';
 import * as strings from 'Propertypane1WebPartStrings';
 
 export interface IPropertypane1WebPartProps {
