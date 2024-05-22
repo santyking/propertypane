@@ -4,7 +4,7 @@ define([], function() {
     "BasicGroupName": "My New Group Name",
     "DescriptionFieldLabel": "My New Description Field Label",
     "AppLocalEnvironmentSharePoint": "The app is running on your local environment as SharePoint web part",
-    "AppLocalEnvironmentTeams": "The app is running on your local environment as Microsoft Teams app",
+    "AppLocalEnvironmentTeams": "The app is running on your local uenvironment as Microsoft Teams app",
     "AppLocalEnvironmentOffice": "The app is running on your local environment in office.com",
     "AppLocalEnvironmentOutlook": "The app is running on your local environment in Outlook",
     "AppSharePointEnvironment": "The app is running on SharePoint page",

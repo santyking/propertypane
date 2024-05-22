@@ -18,8 +18,8 @@
   "preconfiguredEntries": [{
     "groupId": "5c03119e-3074-46fd-976b-c60198311f70", // Advanced
     "group": { "default": "Advanced" },
-    "title": { "default": "propertypane1" },
-    "description": { "default": "propertypane1 description" },
+    "title": { "default": "My New Title" },
+    "description": { "default": "My new propertypane1 description" },
     "officeFabricIconFontName": "Page",
     "properties": {
       "description": "Santosh"
